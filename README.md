@@ -1,3 +1,4 @@
+[![Nagus Build and Test](https://github.com/picardrulez/nagus/actions/workflows/go.yml/badge.svg)](https://github.com/picardrulez/nagus/actions/workflows/go.yml)
 # Nagus
 A golang app for updating a local git repo via http request
 
